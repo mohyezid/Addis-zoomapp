@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "570808867758",
+    "project_id": "ethio-zoom",
+    "storage_bucket": "ethio-zoom.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:570808867758:android:32e059a683742645f0c63f",
+        "android_client_info": {
+          "package_name": "com.example.ethiozoom"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "570808867758-hin8eemb6qj987i9q4rkpkfje73rhmud.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.ethiozoom",
+            "certificate_hash": "7bddda71451473612fc9f4fa78066296b3b3691b"
+          }
+        },
+        {
+          "client_id": "570808867758-kg1vsnji7a4dt28aemoo9j8qooctsj5i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDv5xpDBuTxWjd4ZSF6JczCbFg-eYJK0jY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "570808867758-kg1vsnji7a4dt28aemoo9j8qooctsj5i.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
